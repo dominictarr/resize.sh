@@ -1,0 +1,19 @@
+{
+  "name": "resize.sh",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dominictarr/resize.sh",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/resize.sh.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
+  "license": "MIT"  
+}
